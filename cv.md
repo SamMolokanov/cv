@@ -45,7 +45,7 @@ team.
  - Performed bulk of the work to upgrade Rails version from 3.2
 to 4.0 and Rspec from 2.x to 3.0.
 
-> Achievements: Since I joined Mynewsdesk, my team became the most
+> Achievements: since I joined Mynewsdesk, my team became the most
 productive one in the company based on the latest release.
 
 ### 05.2014 – 04.2015 Web developer, Freelance

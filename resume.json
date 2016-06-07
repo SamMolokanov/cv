@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Semen Molokanov",
+    "label": "Web developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAf5AAAAJGE1ODM0M2NhLTJjOWUtNGQ1YS04NGQ2LWE0NjhmMWViZWFhYw.jpg",
+    "email": "molokanovcv@yandex.com",
+    "phone": "+49 152 57337661",
+    "website": "",
+    "summary": [
+      "I am a software developer with eight years experience in programming. My experience in Ruby on Rails is three years. Throughout this time I have participated in several complex and challenging projects such as CRM system for media holding and trade platform for healthcare industry with a focus on smart data analysis.",
+      "Currently I work for the company Mynewsdesk in the position of senior developer.  I do all my best to add value to a product and to support other team members. I am a self-motivated developer and able to solve complex problems on my own. I am striving to expand my professional expertise and skillset to keep up to date with technology."
+    ],
+    "location": {
+      "address": "Bernhard-Göring-Straße 8",
+      "postalCode": "04107",
+      "city": "Leipzig",
+      "countryCode": "Germany",
+      "region": "Saxony"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Mynewsdesk",
+      "position": "Senior developer",
+      "website": "https://mynewsdesk.com",
+      "startDate": "2015-07-15",
+      "endDate": "",
+      "summary": "International PR and marketing platform. Ruby on Rails.",
+      "highlights": [
+        "Solved critical business problem related to the application search. Reconfigured the misusage of Solr search engine for text attributes and changed it to PostgreSQL full-text search.",
+        "Made a vast contribution to the technical design and implementation for most of the project features implemented within my team.",
+        "Switched YAML parser from Syck to Psych during ruby upgrade to 2.2.3 without downtime and data loss.",
+        "Performed bulk of the work to upgrade Rails version from 3.2 to 4.0 and Rspec from 2.x to 3.0."
+      ],
+      "achievement": "since I joined Mynewsdesk, my team became the most productive one in the company based on the latest release."
+    },
+    {
+      "company": "Freelance",
+      "position": "Web developer",
+      "website": "",
+      "startDate": "2014-05-01",
+      "endDate": "2015-04-01",
+      "summary": "Trade platform for healthcare industry, mobile application API. Ruby on Rails, Grape.",
+      "highlights": [
+        "Developed integration with head office database and suppliers` applications.",
+        "Implemented complex business logic for searching products in legacy database.",
+        "Built API for mobile application."
+      ],
+      "achievement": "successful startup."
+    },
+    {
+      "company": "Media holding «Abak-press»",
+      "position": "Web developer",
+      "website": "http://www.apress.ru/",
+      "startDate": "2013-07-01",
+      "endDate": "2014-12-01",
+      "summary": "Web-based CRM system. Ruby on Rails.",
+      "highlights": [
+        "Developed CRM system business logic, with focus on facilitating the work of managers.",
+        "Integration with other applications in IT department.",
+        "Implemented click-to-call service based on Asterisk and WebSockets highly integrated to business processes.",
+        "Developed tools for reporting and data marts generation."
+      ],
+      "achievement": "reduced expenses and increased productivity of managers daily business, high customers satisfaction and continuous successful functioning of the system."
+    },
+    {
+      "company": "Freelance",
+      "position": "Software developer, SEO Specialist",
+      "website": "",
+      "startDate": "2009-01-01",
+      "endDate": "2013-07-01",
+      "summary": "",
+      "highlights": [
+        "Various Internet projects development and management.",
+        "Search engine optimization of clients` and own Internet projects.",
+        "SEO and SMM consultancy."
+      ],
+      "achievement": "high customer satisfaction, increased the clients' sales level and brand recognition."
+    },
+    {
+      "company": "ControlStyle",
+      "position": "Software developer",
+      "website": "http://www.controlstyle.com/",
+      "startDate": "2008-03-01",
+      "endDate": "2013-02-01",
+      "summary": "Desktop applications for SEO specialists. Delphi.",
+      "highlights": [
+        "Market trends and needs analysis.",
+        "Applications' design and development: architecture, GUI, business logic.",
+        "Unit testing and technical documentation.",
+        "Users’ technical support and consultancy."
+      ],
+      "achievement": "over 15,000 licenses of the programs were sold on Russian market, product launch on European market is planned in the future."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Ural State University named after A.M. Gorky, Ekaterinburg, Russia",
+      "area": "Physics",
+      "studyType": "Diploma",
+      "startDate": "2002-09-01",
+      "endDate": "2008-07-01",
+      "gpa": "",
+      "summary": [
+        "Education in the fields of solid state physics, low temperature physics and computer physics. Computer modelling of physical processes. Programming real time application."
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Ruby",
+        "Ruby on Rails",
+        "PostgreSQL",
+        "JavaScript",
+        "ReactJS",
+        "Rspec",
+        "Capistrano",
+        "nginx",
+        "Unicorn/Puma",
+        "Sidekiq",
+        "Redis",
+        "git",
+        "Unix",
+        "Asterisk",
+        "Agile development",
+        "TDD/BDD practices"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "proficient"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

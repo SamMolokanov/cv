@@ -11,9 +11,7 @@
 
 ## Summary
 
-I am a software developer with eight years experience in programming.
-My experience in Ruby on Rails is three years. Throughout this time I
-have participated in several complex and challenging projects such as
+I am a professional software developer since 2008. My experience in Ruby on Rails started at 2012. Throughout this time I have participated in several complex and challenging projects such as 
 CRM system for media holding and trade platform for healthcare
 industry with a focus on smart data analysis. Currently I work for the
 company Mynewsdesk in the position of senior developer.
